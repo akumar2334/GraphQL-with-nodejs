@@ -1,0 +1,40 @@
+# Ignore compiled binaries and object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore the output of various build tools
+bin/
+build/
+dist/
+node_modules/
+vendor/
+target/
+
+# Ignore logs and temporary files
+*.log
+*.swp
+*.swo
+*~
+*.tmp
+
+# Ignore configuration and environment files
+.env
+*.config
+
+# Ignore system-specific files and directories
+Thumbs.db
+.DS_Store
+.idea/
+
+# Ignore specific files or directories
+my_secret_file.txt
+some_directory/
+settings.json
+
+# Ignore all files in a directory, but not the directory itself
+another_directory/*
+
+# Ignore all .txt files in the root directory
+/*.txt
