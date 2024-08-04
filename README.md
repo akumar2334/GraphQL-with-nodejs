@@ -23,6 +23,6 @@ This project demonstrates a basic GraphQL API built with Node.js, Express, and A
 - Node.js (v14.x or later)
 - npm or yarn
 
-### Installation
+
 
 
